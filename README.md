@@ -14,12 +14,12 @@ Teekshala Kantheti - 801367694
 INSTRUCTIONS TO RUN THE CODE
 
 
-STEP 1: Install jupyter notebook and libraries (Libraries: pandas, numpy, matplotlib.pyplot, seaborn, sklearn, pickle, warnings)
+STEP-1: Install jupyter notebook and libraries (Libraries: pandas, numpy, matplotlib.pyplot, seaborn, sklearn, pickle, warnings)
 
-STEP 2: Open the .ipynb file in the zip file using jupyter notebook and Run the code line by line to get the output and results (graphs).
+STEP-2: Open the .ipynb file in the zip file using jupyter notebook and Run the code line by line to get the output and results (graphs).
 
-STEP 3: After executing the .ipynb file then open the terminal to open the User Interface.
+STEP-3: After executing the .ipynb file then open the terminal to open the User Interface.
 
-STEP 4: In the terminal, go to the project directory, then type "python app.py" to open the UI.
+STEP-4: In the terminal, go to the project directory, then type "python app.py" to open the UI.
 
-STEP 5: Input the text in the text area and predict whether a person is depressed or not.
+STEP-5: Input the text in the text area and predict whether a person is depressed or not.
